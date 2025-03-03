@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star" transform="translate(0.000000, 1.000000)" fill="#DFDFDF" fill-rule="nonzero">
+            <polygon id="Path" points="64 23.1674498 41.642878 20.1991886 32.0000031 1.16101743e-15 22.3571283 20.1991886 4.64406971e-16 23.1674498 16.4285746 38.2986378 12.2142796 60.2353677 32.0000031 49.4480223 51.7856221 60.2353677 47.5714526 38.2986378"></polygon>
+        </g>
+    </g>
+</svg>
